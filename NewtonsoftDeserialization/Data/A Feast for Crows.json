@@ -1,0 +1,80 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "gq2NEAAAQBAJ",
+      "etag": "/3ShEFwuY7g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gq2NEAAAQBAJ",
+      "volumeInfo": {
+        "title": "A Feast for Crows",
+        "subtitle": "A Song of Ice and Fire: Book Four",
+        "authors": [
+          "George R. R. Martin"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2012-03-27",
+        "description": "The uneasy peace that exists following the death of Robb Stark is threatened by new plots, intrigues, and alliances that once again will plunge the Seven Kingdoms into all-out war for control of the Iron Throne.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780449011911"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0449011917"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gq2NEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gq2NEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=gq2NEAAAQBAJ&dq=A_Feast_for_Crows+inauthor:martin+isbn:9780449011911&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=gq2NEAAAQBAJ&dq=A_Feast_for_Crows+inauthor:martin+isbn:9780449011911&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Feast_for_Crows.html?hl=&id=gq2NEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gq2NEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The uneasy peace that exists following the death of Robb Stark is threatened by new plots, intrigues, and alliances that once again will plunge the Seven Kingdoms into all-out war for control of the Iron Throne."
+      }
+    }
+  ]
+}
